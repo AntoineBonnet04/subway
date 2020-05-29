@@ -1,5 +1,3 @@
-package asgn2;
-
 public class TrainNetwork {
 	final int swapFreq = 2;
 	TrainLine[] networkLines;
